@@ -1,0 +1,25 @@
+{
+	"name": "re-auth-api",
+	"version": "1.0.3",
+	"description": "The API Wrapper for the Re-Auth API!",
+	"main": "index.js",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/RedCrafter07/Re-Auth-API.git"
+	},
+	"keywords": [ "Re-Auth", "API", "Wrapper" ],
+	"author": "RedCrafter07 <contact@redcrafter07.de> (https://redcrafter07.de)",
+	"license": "MIT",
+	"bugs": {
+		"url": "https://github.com/RedCrafter07/Re-Auth-NPM/issues"
+	},
+	"homepage": "https://auth.redcrafter07.de",
+	"dependencies": {
+		"axios": "^0.24.0",
+		"chalk": "^4.1.2",
+		"re-auth-api": "^1.0.0"
+	}
+}
