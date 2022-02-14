@@ -37,4 +37,4 @@ Deny: redirect to your homepage URI
 Accept: redirect to the redirectURI with ?secret=your secret
 
 ## License
-[MIT](https://github.com/FishingHacks/ReAuth-API/blob/main/LICENSE)
+[MIT](https://github.com/FishingHacks/ReAuth-API/blob/master/LICENSE)
